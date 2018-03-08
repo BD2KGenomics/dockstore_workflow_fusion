@@ -1,8 +1,8 @@
 # dockstore_workflow_fusion
 
-**This repository contains cwl to run the a docker implementations of two fusion finding tools: STAR-Fusion and Arriba.**
+**This repository contains cwl to run the docker implementations of two fusion finding tools: STAR-Fusion and Arriba.**
 
-For details on the individual tools, see the (Arriba)[https://github.com/BD2KGenomics/dockstore_tool_arriba] and (STAR-Fusion)[https://github.com/UCSC-Treehouse/fusion] github repos for the docker implementations, and the original (STAR-Fusion)[https://github.com/STAR-Fusion/STAR-Fusion/wiki] and (Arriba)[https://github.com/suhrig/arriba] github repositories.
+For details on the individual tools, see the [Arriba](https://github.com/BD2KGenomics/dockstore_tool_arriba) and [STAR-Fusion](https://github.com/UCSC-Treehouse/fusion) github repos for the docker implementations, and the original [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) and [Arriba](https://github.com/suhrig/arriba) github repositories.
 
 This workflow is hosted on Dockstore as BD2KGenomics/dockstore_workflow_fusion
 
